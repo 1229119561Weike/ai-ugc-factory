@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>AI UGC Factory</title>
+  <meta name="description" content="Open-source AI ad asset system and AI UGC batch production factory." />
+  <style>
+    :root { color-scheme: light; --ink:#101828; --muted:#667085; --line:#e4e7ec; --brand:#12b76a; --soft:#f6fef9; --panel:#ffffff; }
+    * { box-sizing:border-box; }
+    body { margin:0; font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; color:var(--ink); background:linear-gradient(180deg,#f9fafb,#fff); }
+    .wrap { max-width:1080px; margin:0 auto; padding:56px 20px; }
+    .hero { display:grid; grid-template-columns:1.2fr .8fr; gap:32px; align-items:center; }
+    .badge { display:inline-flex; gap:8px; align-items:center; border:1px solid var(--line); border-radius:999px; padding:8px 12px; color:#027a48; background:var(--soft); font-weight:700; font-size:14px; }
+    h1 { font-size:58px; line-height:.95; letter-spacing:-2px; margin:18px 0; }
+    h2 { font-size:30px; margin:0 0 12px; }
+    p { color:var(--muted); font-size:18px; line-height:1.65; }
+    .cta { display:flex; gap:12px; flex-wrap:wrap; margin-top:24px; }
+    .btn { text-decoration:none; border-radius:14px; padding:13px 18px; font-weight:800; }
+    .btn.primary { background:var(--ink); color:#fff; }
+    .btn.secondary { border:1px solid var(--line); color:var(--ink); background:#fff; }
+    .bot-card { border:1px solid var(--line); border-radius:28px; padding:28px; background:var(--panel); box-shadow:0 24px 80px rgba(16,24,40,.08); }
+    .bot { width:210px; height:210px; margin:0 auto 22px; background:linear-gradient(135deg,#12b76a,#36bffa); clip-path:polygon(25% 6%,75% 6%,100% 50%,75% 94%,25% 94%,0 50%); display:grid; place-items:center; }
+    .bot-inner { width:142px; height:142px; border-radius:32px; background:#fff; display:grid; place-items:center; font-size:54px; font-weight:900; color:#12b76a; }
+    .grid { display:grid; grid-template-columns:repeat(3,1fr); gap:18px; margin-top:42px; }
+    .card { border:1px solid var(--line); border-radius:22px; padding:22px; background:#fff; }
+    .card p { font-size:15px; margin:0; }
+    .gallery { display:grid; grid-template-columns:repeat(5,1fr); gap:12px; margin-top:18px; }
+    .slot { border:1px dashed #98a2b3; border-radius:18px; padding:18px; min-height:120px; background:#fcfcfd; font-size:14px; color:#475467; }
+    .contact { display:grid; grid-template-columns:1fr 220px; gap:28px; align-items:center; border:1px solid var(--line); border-radius:28px; padding:28px; background:var(--soft); margin-top:44px; }
+    .contact img { width:220px; border-radius:18px; background:#fff; }
+    code { background:#f2f4f7; padding:2px 6px; border-radius:7px; }
+    @media (max-width:820px){ .hero,.contact{grid-template-columns:1fr;} h1{font-size:42px;} .grid,.gallery{grid-template-columns:1fr;} }
+  </style>
+</head>
+<body>
+  <main class="wrap">
+    <section class="hero">
+      <div>
+        <span class="badge">Open-source AI ad production workflow</span>
+        <h1>Build an AI UGC ad factory, not just another prompt.</h1>
+        <p>AI UGC Factory packages product intake, asset mapping, reference control, prompt packs, QA gates, and demo galleries into a compact reusable system for enterprise-grade AI ad assets.</p>
+        <div class="cta">
+          <a class="btn primary" href="../README.md">Read the README</a>
+          <a class="btn secondary" href="demo-videos/">View demo index</a>
+        </div>
+      </div>
+      <div class="bot-card">
+        <div class="bot"><div class="bot-inner">UGC</div></div>
+        <h2>Hex Bot workflow</h2>
+        <p>A small hexagonal bot mascot guides the production line: brief → assets → prompts → render → QA → batch learning.</p>
+      </div>
+    </section>
+
+    <section class="grid">
+      <div class="card"><h2>01 Intake</h2><p>Capture product truth, audience, offer boundaries, claims, and forbidden assumptions.</p></div>
+      <div class="card"><h2>02 Assets</h2><p>Rename and map product images, videos, references, and webpages by visual function.</p></div>
+      <div class="card"><h2>03 Prompts</h2><p>Write beat-level UGC prompts with real model-readable product inputs and QA gates.</p></div>
+    </section>
+
+    <section style="margin-top:54px">
+      <h2>Demo gallery slots</h2>
+      <p>Use your own hosted videos or GitHub Release assets for public demos.</p>
+      <div class="gallery">
+        <div class="slot">Pet food UGC batch</div>
+        <div class="slot">PieceStory puzzle ads</div>
+        <div class="slot">Course education ads</div>
+        <div class="slot">Curling iron product demo</div>
+        <div class="slot">AIVideoPro.io SaaS ad</div>
+      </div>
+    </section>
+
+    <section class="contact">
+      <div>
+        <h2>Matrix launch link coming soon</h2>
+        <p>If this workflow is useful, scan the WeChat QR and say hi. I’m sharing the open-source system first; the Matrix product link will follow when it is ready.</p>
+      </div>
+      <img src="../assets/contact/wechat-qr.jpg" alt="WeChat QR code" />
+    </section>
+  </main>
+</body>
+</html>

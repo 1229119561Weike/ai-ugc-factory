@@ -1,0 +1,11 @@
+{
+  "name": "ai-ugc-factory",
+  "version": "0.1.0",
+  "private": false,
+  "description": "Open-source AI ad asset system and AI UGC batch production factory.",
+  "scripts": {
+    "check": "python3 scripts/build_demo_manifest.py >/dev/null && test -f README.md && test -f docs/index.html"
+  },
+  "keywords": ["ai-ugc", "ai-ads", "prompt-engineering", "video-generation", "marketing"],
+  "license": "MIT"
+}

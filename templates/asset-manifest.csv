@@ -1,0 +1,6 @@
+asset_id,path,type,function,use_as_model_input,notes
+hero_product_image,,image,main product identity,yes,
+packaging_detail,,image,claims/labels/texture,yes,
+reference_video,,video,editing rhythm / creator performance,no,
+website,,url,truth source / CTA,no,
+contact_qr,,image,soft CTA / end card,yes,

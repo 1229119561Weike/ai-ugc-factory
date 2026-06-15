@@ -1,0 +1,14 @@
+name: check
+on:
+  push:
+  pull_request:
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      - run: python3 scripts/build_demo_manifest.py >/dev/null
+      - run: test -f README.md && test -f docs/index.html && test -f skills/ai-ugc-factory/SKILL.md

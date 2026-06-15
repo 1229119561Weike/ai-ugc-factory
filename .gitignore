@@ -1,0 +1,22 @@
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+
+# Node / build
+node_modules/
+dist/
+build/
+
+# Large local media by default
+*.mp4
+*.mov
+*.m4v
+*.wav
+*.mp3
+!docs/demo-videos/*.md
+
+# Private credentials
+.env
+.env.*
+secrets.*
