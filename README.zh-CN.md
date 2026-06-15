@@ -51,67 +51,65 @@ scripts/                      # 辅助脚本
 
 ## Demo 视频
 
-Demo 视频可以在 README 里直接播放，也可以在项目页面或 Release 页面查看：
+GitHub README 会过滤内嵌 MP4 播放器，所以下方使用 README 可直接播放的 GIF 动态预览。点击任意预览即可打开完整 MP4。
 
-- 英文页面：https://1229119561weike.github.io/ai-ugc-factory/en/
-- 中文页面：https://1229119561weike.github.io/ai-ugc-factory/zh/
-- Release：https://github.com/1229119561Weike/ai-ugc-factory/releases/tag/v0.1.0
+- 英文页面（完整视频播放器）：https://1229119561weike.github.io/ai-ugc-factory/en/
+- 中文页面（完整视频播放器）：https://1229119561weike.github.io/ai-ugc-factory/zh/
+- Release 附件：https://github.com/1229119561Weike/ai-ugc-factory/releases/tag/v0.1.0
 
-大型视频不直接提交进 git 历史，而是作为 GitHub Release 附件托管。
-
-### 猫粮短版 UGC
-
-<video controls width="260" src="https://github.com/1229119561Weike/ai-ugc-factory/releases/download/v0.1.0/Feishu20260615-145618.mp4"></video>
-
-[下载 MP4](https://github.com/1229119561Weike/ai-ugc-factory/releases/download/v0.1.0/Feishu20260615-145618.mp4)
-
-### 猫粮长版 UGC
-
-<video controls width="260" src="https://github.com/1229119561Weike/ai-ugc-factory/releases/download/v0.1.0/Feishu20260615-145621.mp4"></video>
-
-[下载 MP4](https://github.com/1229119561Weike/ai-ugc-factory/releases/download/v0.1.0/Feishu20260615-145621.mp4)
-
-### 猫粮产品 Demo A
-
-<video controls width="260" src="https://github.com/1229119561Weike/ai-ugc-factory/releases/download/v0.1.0/Feishu20260615-145625.mp4"></video>
-
-[下载 MP4](https://github.com/1229119561Weike/ai-ugc-factory/releases/download/v0.1.0/Feishu20260615-145625.mp4)
-
-### 猫粮产品 Demo B
-
-<video controls width="260" src="https://github.com/1229119561Weike/ai-ugc-factory/releases/download/v0.1.0/Feishu20260615-145628.mp4"></video>
-
-[下载 MP4](https://github.com/1229119561Weike/ai-ugc-factory/releases/download/v0.1.0/Feishu20260615-145628.mp4)
-
-### PieceStory 真人 Demo
-
-<video controls width="260" src="https://github.com/1229119561Weike/ai-ugc-factory/releases/download/v0.1.0/PieceStory_DemoA_realperson_30s_9x16.mp4"></video>
-
-[下载 MP4](https://github.com/1229119561Weike/ai-ugc-factory/releases/download/v0.1.0/PieceStory_DemoA_realperson_30s_9x16.mp4)
-
-### PieceStory 动漫 Demo
-
-<video controls width="260" src="https://github.com/1229119561Weike/ai-ugc-factory/releases/download/v0.1.0/PieceStory_DemoB_anime_25s_9x16.mp4"></video>
-
-[下载 MP4](https://github.com/1229119561Weike/ai-ugc-factory/releases/download/v0.1.0/PieceStory_DemoB_anime_25s_9x16.mp4)
-
-### 课程教育 Demo A
-
-<video controls width="260" src="https://github.com/1229119561Weike/ai-ugc-factory/releases/download/v0.1.0/Feishu20260615-145558.mp4"></video>
-
-[下载 MP4](https://github.com/1229119561Weike/ai-ugc-factory/releases/download/v0.1.0/Feishu20260615-145558.mp4)
-
-### 课程教育 Demo B
-
-<video controls width="260" src="https://github.com/1229119561Weike/ai-ugc-factory/releases/download/v0.1.0/Feishu20260615-145604.mp4"></video>
-
-[下载 MP4](https://github.com/1229119561Weike/ai-ugc-factory/releases/download/v0.1.0/Feishu20260615-145604.mp4)
-
-### 卷发棒 Demo
-
-<video controls width="260" src="https://github.com/1229119561Weike/ai-ugc-factory/releases/download/v0.1.0/Feishu20260615-145610.mp4"></video>
-
-[下载 MP4](https://github.com/1229119561Weike/ai-ugc-factory/releases/download/v0.1.0/Feishu20260615-145610.mp4)
+<table>
+<tr>
+<td width="33%" valign="top">
+<a href="https://github.com/1229119561Weike/ai-ugc-factory/releases/download/v0.1.0/Feishu20260615-145618.mp4"><img src="assets/demo-previews/pet-food-short-demo.gif" width="220" alt="猫粮短版 UGC preview" /></a><br />
+<strong>猫粮短版 UGC</strong><br />
+<a href="https://github.com/1229119561Weike/ai-ugc-factory/releases/download/v0.1.0/Feishu20260615-145618.mp4">播放完整 MP4</a>
+</td>
+<td width="33%" valign="top">
+<a href="https://github.com/1229119561Weike/ai-ugc-factory/releases/download/v0.1.0/Feishu20260615-145621.mp4"><img src="assets/demo-previews/pet-food-long-demo.gif" width="220" alt="猫粮长版 UGC preview" /></a><br />
+<strong>猫粮长版 UGC</strong><br />
+<a href="https://github.com/1229119561Weike/ai-ugc-factory/releases/download/v0.1.0/Feishu20260615-145621.mp4">播放完整 MP4</a>
+</td>
+<td width="33%" valign="top">
+<a href="https://github.com/1229119561Weike/ai-ugc-factory/releases/download/v0.1.0/Feishu20260615-145625.mp4"><img src="assets/demo-previews/pet-food-product-demo-a.gif" width="220" alt="猫粮产品 Demo A preview" /></a><br />
+<strong>猫粮产品 Demo A</strong><br />
+<a href="https://github.com/1229119561Weike/ai-ugc-factory/releases/download/v0.1.0/Feishu20260615-145625.mp4">播放完整 MP4</a>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="https://github.com/1229119561Weike/ai-ugc-factory/releases/download/v0.1.0/Feishu20260615-145628.mp4"><img src="assets/demo-previews/pet-food-product-demo-b.gif" width="220" alt="猫粮产品 Demo B preview" /></a><br />
+<strong>猫粮产品 Demo B</strong><br />
+<a href="https://github.com/1229119561Weike/ai-ugc-factory/releases/download/v0.1.0/Feishu20260615-145628.mp4">播放完整 MP4</a>
+</td>
+<td width="33%" valign="top">
+<a href="https://github.com/1229119561Weike/ai-ugc-factory/releases/download/v0.1.0/PieceStory_DemoA_realperson_30s_9x16.mp4"><img src="assets/demo-previews/piecestory-realperson-demo.gif" width="220" alt="PieceStory 真人 Demo preview" /></a><br />
+<strong>PieceStory 真人 Demo</strong><br />
+<a href="https://github.com/1229119561Weike/ai-ugc-factory/releases/download/v0.1.0/PieceStory_DemoA_realperson_30s_9x16.mp4">播放完整 MP4</a>
+</td>
+<td width="33%" valign="top">
+<a href="https://github.com/1229119561Weike/ai-ugc-factory/releases/download/v0.1.0/PieceStory_DemoB_anime_25s_9x16.mp4"><img src="assets/demo-previews/piecestory-anime-demo.gif" width="220" alt="PieceStory 动漫 Demo preview" /></a><br />
+<strong>PieceStory 动漫 Demo</strong><br />
+<a href="https://github.com/1229119561Weike/ai-ugc-factory/releases/download/v0.1.0/PieceStory_DemoB_anime_25s_9x16.mp4">播放完整 MP4</a>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="https://github.com/1229119561Weike/ai-ugc-factory/releases/download/v0.1.0/Feishu20260615-145558.mp4"><img src="assets/demo-previews/course-education-demo-a.gif" width="220" alt="课程教育 Demo A preview" /></a><br />
+<strong>课程教育 Demo A</strong><br />
+<a href="https://github.com/1229119561Weike/ai-ugc-factory/releases/download/v0.1.0/Feishu20260615-145558.mp4">播放完整 MP4</a>
+</td>
+<td width="33%" valign="top">
+<a href="https://github.com/1229119561Weike/ai-ugc-factory/releases/download/v0.1.0/Feishu20260615-145604.mp4"><img src="assets/demo-previews/course-education-demo-b.gif" width="220" alt="课程教育 Demo B preview" /></a><br />
+<strong>课程教育 Demo B</strong><br />
+<a href="https://github.com/1229119561Weike/ai-ugc-factory/releases/download/v0.1.0/Feishu20260615-145604.mp4">播放完整 MP4</a>
+</td>
+<td width="33%" valign="top">
+<a href="https://github.com/1229119561Weike/ai-ugc-factory/releases/download/v0.1.0/Feishu20260615-145610.mp4"><img src="assets/demo-previews/curling-iron-demo.gif" width="220" alt="卷发棒 Demo preview" /></a><br />
+<strong>卷发棒 Demo</strong><br />
+<a href="https://github.com/1229119561Weike/ai-ugc-factory/releases/download/v0.1.0/Feishu20260615-145610.mp4">播放完整 MP4</a>
+</td>
+</tr>
+</table>
 
 ## 联系 / 提前体验
 
