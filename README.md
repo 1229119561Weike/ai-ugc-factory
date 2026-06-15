@@ -51,23 +51,67 @@ scripts/                      # helper scripts
 
 ## Demo videos
 
-The demo videos are available directly on the project pages and as Release assets:
+The demo videos are playable directly in this README, on the project pages, and as Release assets:
 
 - English page: https://1229119561weike.github.io/ai-ugc-factory/en/
 - Chinese page: https://1229119561weike.github.io/ai-ugc-factory/zh/
 - Release: https://github.com/1229119561Weike/ai-ugc-factory/releases/tag/v0.1.0
 
-Included verticals:
+Large videos are intentionally not committed into git history. They are hosted as GitHub Release assets.
 
-| Vertical | Demo use |
-| --- | --- |
-| Pet food | UGC product ad examples |
-| Puzzle / Kickstarter | Real-person + anime ad examples |
-| Course education | Education/service offer ads |
-| Curling iron | Beauty device demo example |
-| AI video SaaS | SaaS/product website ad example |
+### Pet food short UGC
 
-Large videos are intentionally not committed into git history. They are hosted as GitHub Release assets and embedded with browser video players on the English and Chinese Pages.
+<video controls width="260" src="https://github.com/1229119561Weike/ai-ugc-factory/releases/download/v0.1.0/Feishu20260615-145618.mp4"></video>
+
+[Download MP4](https://github.com/1229119561Weike/ai-ugc-factory/releases/download/v0.1.0/Feishu20260615-145618.mp4)
+
+### Pet food long UGC
+
+<video controls width="260" src="https://github.com/1229119561Weike/ai-ugc-factory/releases/download/v0.1.0/Feishu20260615-145621.mp4"></video>
+
+[Download MP4](https://github.com/1229119561Weike/ai-ugc-factory/releases/download/v0.1.0/Feishu20260615-145621.mp4)
+
+### Pet food product demo A
+
+<video controls width="260" src="https://github.com/1229119561Weike/ai-ugc-factory/releases/download/v0.1.0/Feishu20260615-145625.mp4"></video>
+
+[Download MP4](https://github.com/1229119561Weike/ai-ugc-factory/releases/download/v0.1.0/Feishu20260615-145625.mp4)
+
+### Pet food product demo B
+
+<video controls width="260" src="https://github.com/1229119561Weike/ai-ugc-factory/releases/download/v0.1.0/Feishu20260615-145628.mp4"></video>
+
+[Download MP4](https://github.com/1229119561Weike/ai-ugc-factory/releases/download/v0.1.0/Feishu20260615-145628.mp4)
+
+### PieceStory real-person demo
+
+<video controls width="260" src="https://github.com/1229119561Weike/ai-ugc-factory/releases/download/v0.1.0/PieceStory_DemoA_realperson_30s_9x16.mp4"></video>
+
+[Download MP4](https://github.com/1229119561Weike/ai-ugc-factory/releases/download/v0.1.0/PieceStory_DemoA_realperson_30s_9x16.mp4)
+
+### PieceStory anime demo
+
+<video controls width="260" src="https://github.com/1229119561Weike/ai-ugc-factory/releases/download/v0.1.0/PieceStory_DemoB_anime_25s_9x16.mp4"></video>
+
+[Download MP4](https://github.com/1229119561Weike/ai-ugc-factory/releases/download/v0.1.0/PieceStory_DemoB_anime_25s_9x16.mp4)
+
+### Course education demo A
+
+<video controls width="260" src="https://github.com/1229119561Weike/ai-ugc-factory/releases/download/v0.1.0/Feishu20260615-145558.mp4"></video>
+
+[Download MP4](https://github.com/1229119561Weike/ai-ugc-factory/releases/download/v0.1.0/Feishu20260615-145558.mp4)
+
+### Course education demo B
+
+<video controls width="260" src="https://github.com/1229119561Weike/ai-ugc-factory/releases/download/v0.1.0/Feishu20260615-145604.mp4"></video>
+
+[Download MP4](https://github.com/1229119561Weike/ai-ugc-factory/releases/download/v0.1.0/Feishu20260615-145604.mp4)
+
+### Curling iron demo
+
+<video controls width="260" src="https://github.com/1229119561Weike/ai-ugc-factory/releases/download/v0.1.0/Feishu20260615-145610.mp4"></video>
+
+[Download MP4](https://github.com/1229119561Weike/ai-ugc-factory/releases/download/v0.1.0/Feishu20260615-145610.mp4)
 
 ## Contact / early access
 
