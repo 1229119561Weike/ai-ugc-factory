@@ -93,7 +93,12 @@ Most AI ad workflows fail because they treat video generation as a prompt-writin
 
 This repo packages that system into a compact open-source starter.
 
-<!-- EXPLAINER_VIDEO_EN -->
+See it in motion — a 15s AI-generated explainer of the production line (GitHub strips inline video players, so the preview below is an animated GIF; click it for the full MP4):
+
+<p>
+<a href="https://github.com/1229119561Weike/ai-ugc-factory/releases/download/v0.1.0/explainer-en.mp4"><img src="assets/demo-previews/explainer-en.gif" width="240" alt="AI UGC Factory explainer video preview" /></a><br />
+<a href="https://github.com/1229119561Weike/ai-ugc-factory/releases/download/v0.1.0/explainer-en.mp4">Play full explainer MP4</a> · <a href="https://1229119561weike.github.io/ai-ugc-factory/en/">Watch on the English site</a>
+</p>
 
 ## Repository structure
 
