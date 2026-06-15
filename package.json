@@ -4,7 +4,7 @@
   "private": false,
   "description": "Bilingual open-source AI ad asset system and AI UGC batch production factory.",
   "scripts": {
-    "check": "python3 scripts/build_demo_manifest.py >/dev/null && test -f README.md && test -f docs/index.html"
+    "check": "python3 scripts/build_demo_manifest.py >/dev/null && test -f README.md && test -f README.zh-CN.md && test -f docs/index.html && test -f docs/en/index.html && test -f docs/zh/index.html"
   },
   "keywords": ["ai-ugc", "ai-ads", "prompt-engineering", "video-generation", "marketing", "bilingual", "中文"],
   "license": "MIT"

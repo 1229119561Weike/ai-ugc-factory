@@ -17,7 +17,7 @@ This project supports a demo gallery without forcing large video files into Git 
 Representative demo videos are attached to the first release:  
 首版 release 已附带代表性 demo 视频：
 
-- [AI UGC Factory v0.1.0 demos](https://github.com/nzmax/ai-ugc-factory/releases/tag/v0.1.0)
+- [AI UGC Factory v0.1.0 demos](https://github.com/1229119561Weike/ai-ugc-factory/releases/tag/v0.1.0)
 
 ## Demo slots｜Demo 展示位
 
