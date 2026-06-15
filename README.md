@@ -10,44 +10,13 @@ It is designed for founders, growth teams, agencies, and creators who want a reu
 
 ## What this project gives you
 
-- A reusable **AI UGC Factory skill** for turning product assets into production-ready ad video briefs.
-- Asset manifest templates for real product images, webpages, references, videos, and contact assets.
-- Prompt-pack examples for UGC videos, demo reels, and ad-asset systems.
-- Separate English and Chinese GitHub Pages.
-- Directly playable demo videos hosted as GitHub Release assets.
-
-## Why it exists
-
-Most AI ad workflows fail because they treat video generation as a prompt-writing problem. Production quality usually comes from a system:
-
-1. real product assets are organized and named by function;
-2. reference images/videos are attached as model-readable inputs, not merely described;
-3. every 1-2 second beat has a job: hook, proof, benefit, objection, CTA;
-4. voice, pacing, visuals, and claims are QA'd before delivery;
-5. winning angles become reusable batches.
-
-This repo packages that system into a compact open-source starter.
-
-## Repository structure
-
-```text
-skills/ai-ugc-factory/        # reusable Matrix/agent skill
-examples/briefs/              # product brief examples
-examples/asset-manifests/     # asset inventory examples
-examples/prompt-packs/        # prompt-pack examples
-templates/                    # reusable production templates
-docs/                         # GitHub Pages project website
-assets/contact/               # early-access contact asset
-scripts/                      # helper scripts
-```
-
-## Quick start
-
-1. Copy `templates/product-brief.md` and fill in the product, audience, claims, and offer boundaries.
-2. Put real assets in a stable folder and build an asset manifest from `templates/asset-manifest.csv`.
-3. Use `skills/ai-ugc-factory/SKILL.md` as the production workflow.
-4. Draft a prompt pack with `templates/video-prompt-pack.md`.
-5. Run the QA checklist before rendering or publishing.
+- 🤖 A reusable **AI UGC Factory skill** that turns product assets into production-ready ad video briefs.
+- 🗂️ **Asset manifest templates** for real product images, webpages, references, videos, and contact assets.
+- ✍️ **Prompt-pack examples** for UGC videos, demo reels, and ad-asset systems.
+- ✅ **QA gates** for voice, pacing, visuals, and product claims before delivery.
+- 🌐 **Separate English and Chinese GitHub Pages** with full video players.
+- 🎬 **Directly playable demo videos** hosted as GitHub Release assets.
+- 🔁 **A performance-learning loop** that turns winning angles into reusable batch templates.
 
 ## Demo videos
 
@@ -111,6 +80,41 @@ GitHub README filters embedded MP4 players, so the previews below are animated G
 </td>
 </tr>
 </table>
+
+## Why it exists
+
+Most AI ad workflows fail because they treat video generation as a prompt-writing problem. Production quality usually comes from a system:
+
+1. real product assets are organized and named by function;
+2. reference images/videos are attached as model-readable inputs, not merely described;
+3. every 1-2 second beat has a job: hook, proof, benefit, objection, CTA;
+4. voice, pacing, visuals, and claims are QA'd before delivery;
+5. winning angles become reusable batches.
+
+This repo packages that system into a compact open-source starter.
+
+<!-- EXPLAINER_VIDEO_EN -->
+
+## Repository structure
+
+```text
+skills/ai-ugc-factory/        # reusable Matrix/agent skill
+examples/briefs/              # product brief examples
+examples/asset-manifests/     # asset inventory examples
+examples/prompt-packs/        # prompt-pack examples
+templates/                    # reusable production templates
+docs/                         # GitHub Pages project website
+assets/contact/               # early-access contact asset
+scripts/                      # helper scripts
+```
+
+## Quick start
+
+1. Copy `templates/product-brief.md` and fill in the product, audience, claims, and offer boundaries.
+2. Put real assets in a stable folder and build an asset manifest from `templates/asset-manifest.csv`.
+3. Use `skills/ai-ugc-factory/SKILL.md` as the production workflow.
+4. Draft a prompt pack with `templates/video-prompt-pack.md`.
+5. Run the QA checklist before rendering or publishing.
 
 ## Contact / early access
 
