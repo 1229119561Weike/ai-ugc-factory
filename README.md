@@ -1,6 +1,6 @@
 # AI UGC Factory
 
-[中文 README](README.zh-CN.md) · [English website](https://1229119561weike.github.io/ai-ugc-factory/en/) · [中文网站](https://1229119561weike.github.io/ai-ugc-factory/zh/) · [Demo Release](https://github.com/1229119561Weike/ai-ugc-factory/releases/tag/v0.1.0)
+[中文 README](README.zh-CN.md) · [AIVideoPro.io](https://aivideopro.io) · [English website](https://1229119561weike.github.io/ai-ugc-factory/en/) · [中文网站](https://1229119561weike.github.io/ai-ugc-factory/zh/) · [Demo Release](https://github.com/1229119561Weike/ai-ugc-factory/releases/tag/v0.1.0)
 
 **AI UGC Factory** is an open-source workflow for building enterprise-grade AI ad asset systems and producing AI UGC ad videos in batches.
 
@@ -56,6 +56,7 @@ GitHub README filters embedded MP4 players, so the previews below are animated G
 - English page with full video players: https://1229119561weike.github.io/ai-ugc-factory/en/
 - Chinese page with full video players: https://1229119561weike.github.io/ai-ugc-factory/zh/
 - Release assets: https://github.com/1229119561Weike/ai-ugc-factory/releases/tag/v0.1.0
+- AI video SaaS example: https://aivideopro.io
 
 <table>
 <tr>
