@@ -1,31 +1,31 @@
-# Product Brief
+# Product Brief｜产品 Brief
 
-## Product
-- Name:
-- Website:
-- Category:
-- Price / offer boundaries:
+## Product｜产品
+- Name｜名称：
+- Website｜官网：
+- Category｜品类：
+- Price / offer boundaries｜价格 / 报价边界：
 
-## Audience
-- Primary buyer:
-- Pain point:
-- Desired outcome:
-- Objections:
+## Audience｜受众
+- Primary buyer｜核心购买者：
+- Pain point｜痛点：
+- Desired outcome｜期望结果：
+- Objections｜购买异议：
 
-## Claims allowed
-- Verified product facts:
-- Claims to avoid:
-- Compliance notes:
+## Claims allowed｜允许声明
+- Verified product facts｜已验证产品事实：
+- Claims to avoid｜需要避免的声明：
+- Compliance notes｜合规注意事项：
 
-## Creative direction
-- Tone:
-- Visual style:
-- Voiceover style:
-- CTA:
+## Creative direction｜创意方向
+- Tone｜语气：
+- Visual style｜视觉风格：
+- Voiceover style｜口播风格：
+- CTA｜行动号召：
 
-## Assets
-- Product images:
-- Product videos:
-- Website screenshots:
-- Reference videos:
-- Brand/contact assets:
+## Assets｜素材
+- Product images｜产品图片：
+- Product videos｜产品视频：
+- Website screenshots｜网站截图：
+- Reference videos｜参考视频：
+- Brand/contact assets｜品牌/联系资产：
