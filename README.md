@@ -123,9 +123,22 @@ scripts/                      # helper scripts
 
 ## Contact / early access
 
-Matrix launch link is coming soon. If you want early access, collaboration, or batch custom AI UGC production support, see the contact asset:
+Matrix launch link is coming soon. If you want early access, collaboration, or batch custom AI UGC production support, use the contacts below.
 
-![WeChat QR](assets/contact/wechat-qr.jpg)
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="assets/contact/wechat-qr.jpg" width="200" alt="WeChat contact QR" /><br />
+<strong>WeChat</strong><br />
+Personal contact for collaboration / early access
+</td>
+<td align="center" width="50%">
+<a href="https://aivideopro.io"><img src="assets/contact/aivideopro-qr.png" width="200" alt="AIVideoPro.io website QR" /></a><br />
+<strong><a href="https://aivideopro.io">AIVideoPro.io</a></strong><br />
+Scan to open the AI video SaaS — the productized version of this workflow
+</td>
+</tr>
+</table>
 
 ## License
 

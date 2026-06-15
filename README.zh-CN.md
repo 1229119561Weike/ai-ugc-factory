@@ -123,9 +123,22 @@ scripts/                      # 辅助脚本
 
 ## 联系 / 提前体验
 
-Matrix 正式链接即将上线。如果你希望提前交流、合作，或需要批量定制 AI UGC 广告生产支持，可以查看联系资产：
+Matrix 正式链接即将上线。如果你希望提前交流、合作，或需要批量定制 AI UGC 广告生产支持，可使用下方联系方式。
 
-![WeChat QR](assets/contact/wechat-qr.jpg)
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="assets/contact/wechat-qr.jpg" width="200" alt="微信联系二维码" /><br />
+<strong>微信</strong><br />
+个人联系方式，用于合作 / 提前体验
+</td>
+<td align="center" width="50%">
+<a href="https://aivideopro.io"><img src="assets/contact/aivideopro-qr.png" width="200" alt="AIVideoPro.io 网站二维码" /></a><br />
+<strong><a href="https://aivideopro.io">AIVideoPro.io</a></strong><br />
+扫码打开 AI 视频 SaaS —— 本工作流的产品化版本
+</td>
+</tr>
+</table>
 
 ## 许可证
 
